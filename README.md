@@ -8,7 +8,9 @@ Design: https://www.figma.com/file/elqHLVekGAq6jvlXb1tE2b/UIテスト?node-id=1%
 Features and Details
 
 SwiftUI: The project is entirely written in SwiftUI.
-Development Time: The challenge was completed in 4 hours.
+Development Time: The challenge was completed in about 4 hours intermittently.
 Landscape Mode: Integrated landscape mode for an enhanced user experience.
 
-If you have any feedback or issues, please open a GitHub issue.
+If you have any feedback or issues, please contact me by evanliangh@gmail.com.
+
+Thanks!
